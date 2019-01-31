@@ -112,9 +112,8 @@
             this.lblOutputPath.Location = new System.Drawing.Point(82, 9);
             this.lblOutputPath.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblOutputPath.Name = "lblOutputPath";
-            this.lblOutputPath.Size = new System.Drawing.Size(71, 13);
+            this.lblOutputPath.Size = new System.Drawing.Size(0, 13);
             this.lblOutputPath.TabIndex = 6;
-            this.lblOutputPath.Text = "lblOutputPath";
             // 
             // label4
             // 
