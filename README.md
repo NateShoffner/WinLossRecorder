@@ -1,7 +1,9 @@
 WinLossRecorder
 ====================
 
-WinLossRecorder is a win/loss tracking utility that allows you to automatically update text files to be used in streaming software.
+[![Build status](https://ci.appveyor.com/api/projects/status/jof14wemqkimsokt?svg=true)](https://ci.appveyor.com/project/NateShoffner/WinLossRecorder/branch/master)
+
+WinLossRecorder is a win/loss tracking utility that allows you to automatically update text files to be used in streaming softwares.
             
  ### License ###
 
